@@ -1,0 +1,25 @@
+h1{
+    /* Màu chữ */
+    color: blueviolet;
+    /* Kiểu chữ */
+    font-size:x-small;
+    /* Font chữ */
+    font-family: Arial, Helvetica, sans-serif;
+    /* Chuyển chữ Hoa<----> Thường */
+    text-transform: capitalize;
+    /* Căn giữa */
+    text-align: center;
+    /* Cỡ chữ */
+    font-size: 50px;
+  
+}
+h2{
+    /* Độ trong suốt */
+    opacity: 50%;
+}
+    
+a{
+    
+    color: black;
+    font-style:unset;
+}
