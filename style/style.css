@@ -1,3 +1,7 @@
+body{
+    background-image:url(/Picture/Background_1.jpg);
+    background-size:cover;
+}
 h1{
     /* Màu chữ */
     color: blueviolet;
@@ -14,12 +18,27 @@ h1{
   
 }
 h2{
-    /* Độ trong suốt */
-    opacity: 50%;
+    color:rgb(107, 230, 7);
+    text-align: center;  
+    /* display: none; */ /*  ẩn phàn tử khoải giao diện(xóa không gian nó đang chiếm) */
+   /* visibility: hidden; /*Mất phần tử nhưng vẫn chiếm không gian*/
+
 }
-    
+span{
+    visibility:visible; /* Kế thừa và hiện text khi có visibility: hidden;/*
+}
 a{
     
-    color: black;
+    color: red;
     font-style:unset;
+    background-color: none;
+    
 }
+p{
+    /* Độ trong suốt */
+    opacity: 70%;
+    background-color: aliceblue;
+    text-align: center;
+   
+}
+    
