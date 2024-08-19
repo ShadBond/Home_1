@@ -25,7 +25,7 @@ h2{
 
 }
 span{
-    visibility:visible; /* Kế thừa và hiện text khi có visibility: hidden;/*
+    visibility:visible; /* Kế thừa và hiện text khi có visibility: hidden;*/
 }
 a{
     
